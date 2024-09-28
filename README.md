@@ -3,4 +3,4 @@
 
  Repositório criado durante uma aula ao vivo!
 
- Editando o código direto do GitHub
+ Editando o código direto do GitHub!
